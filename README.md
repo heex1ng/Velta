@@ -1,5 +1,3 @@
-# Velta
-
 <p align="center">
   <b>Velta — Minecraft & Network Toolkit</b>
   <br>
