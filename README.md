@@ -1,7 +1,7 @@
 <p align="center">
-  <b>Velta — Minecraft & Network Toolkit</b>
+  <b>Velta — Minecraft Pentesting Tool</b>
   <br>
-  A command-line toolkit for Minecraft server utilities, network analysis and information gathering.
+  A command-line tool for Minecraft server utilities, network analysis and information gathering.
 </p>
 
 ---
@@ -182,5 +182,5 @@ h1
 <p align="center">
   <b>Velta</b>
   <br>
-  Minecraft & Network Tool
+  Minecraft Pentesting Tool
 </p>
